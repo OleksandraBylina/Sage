@@ -1,0 +1,10 @@
+Result Symmetric group of order 5! as a permutation group, with order divisor 40
+Result Alternating group of order 5!/2 as a permutation group, with order divisor 30
+Result Symmetric group of order 6! as a permutation group, with order divisor 240
+Result Alternating group of order 6!/2 as a permutation group, with order divisor 180
+Result Symmetric group of order 7! as a permutation group, with order divisor 1680
+Result Alternating group of order 7!/2 as a permutation group, with order divisor 1260
+Result Symmetric group of order 8! as a permutation group, with order divisor 13440
+Result Alternating group of order 8!/2 as a permutation group, with order divisor 10080
+Result Symmetric group of order 9! as a permutation group, with order divisor 120960
+Result Alternating group of order 9!/2 as a permutation group, with order divisor 90720
